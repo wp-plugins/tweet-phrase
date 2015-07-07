@@ -1,5 +1,6 @@
 === Tweet Phrase ===
 Contributors: andrearufo
+Donate link: http://www.orangedropdesign.com/
 Tags: tweet, twitter, share, shortcode
 Requires at least: 3.0
 Tested up to: 4.2.2
@@ -23,8 +24,8 @@ Just download the plugin and put it on the /wp-content/plugins directory of you 
 
 == Frequently Asked Questions ==
 
-= Is Twitter API or login required? =
-No
+* Is Twitter API or login required? No
+* I have to change the code of my theme? No
 
 == Screenshots ==
 
