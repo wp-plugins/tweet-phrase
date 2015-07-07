@@ -8,10 +8,10 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple Wordpress plugin for tweet a single phrase with a click!
+Use the simple shortcode [tweet] to add a link on a phrase and click on the link share it on Twitter! Options and style included.
 
 == Description ==
-Using the shortcode [tweet] ... [/tweet] allow your site users to click on a link that post the content of the shortcode on twitter. Really simple to use, with a modern style for the links and some options.
+Using the shortcode [tweet] ... [/tweet] allow your site users to click on a link that post the content of the shortcode on twitter. Really simple to use, with a modern style for the links and some options: text or symbols before and after the quote, twitter username  used for "via" and include permalink.
 
 == Installation ==
 Just download the plugin and put it on the /wp-content/plugins directory of you Wordpress installation.
